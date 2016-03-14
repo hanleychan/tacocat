@@ -1,4 +1,4 @@
-This is my solution to the Tacocat project from www.treehouse.com.
+This is my solution to the Tacocat project from www.teamtreehouse.com.
 
 Application link: http://polar-reef-6686.herokuapp.com/
 
